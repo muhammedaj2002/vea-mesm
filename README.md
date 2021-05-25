@@ -8,7 +8,7 @@ Our Project, 'Event Portal for Your College' using Python (Django) named VEA MES
 ## Team Id
 BFH/recqez40HH6WWA4sc/2021
 ## Link to product walkthrough
-[link to video]
+https://drive.google.com/drive/folders/1QGHIFHLIp8wmKsZQUHr1_bnOASa9viXm?usp=sharing
 ## How it Works ?
 Overall Structure [https://app.dbdesigner.net/designer/schema/419953]
 1. Step 1: For admins, we can log in after creating a superuser, and for users, first register for an account, then log in.
